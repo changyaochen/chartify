@@ -66,3 +66,5 @@ Contributing
 ------------
 
 `See the contributing docs <CONTRIBUTING.rst>`_.
+
+CC in the house.
